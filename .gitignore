@@ -8,13 +8,13 @@ venv/
 env/
 
 # Streamlit cache
-.streamlit/
+
 
 # Dataset files (optional)
-data/*.csv
+
 
 # Models (optional if large)
-*.pkl
+
 
 # OS files
 .DS_Store

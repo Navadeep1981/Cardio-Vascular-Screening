@@ -14,7 +14,7 @@ env/
 
 
 # Models (optional if large)
-
+models/*.pkl
 
 # OS files
 .DS_Store

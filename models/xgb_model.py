@@ -9,7 +9,7 @@ from xgboost import XGBClassifier
 # 1️⃣ Load Dataset
 # ----------------------------------
 
-df = pd.read_csv("C:/Users/Navadeep/OneDrive/Desktop/CardiVascular Screening/data/synthetic_ehr_with_age.csv")
+df = pd.read_csv("../data/synthetic_ehr_with_age.csv")
 
 print("Dataset Loaded")
 print("Shape:", df.shape)

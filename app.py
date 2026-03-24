@@ -40,7 +40,7 @@ def get_base64_image(image_path):
     with open(image_path, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
-heart_base64 = get_base64_image("assets/heart.png")
+heart_base64 = get_base64_image("assets/Heart.png")
 
 # -------------------------
 # Random Quote
